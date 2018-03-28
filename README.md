@@ -1,4 +1,4 @@
-# An Analysis Water Quality in Florida, 2001 - 2017
+# An Analysis of Water Quality in Florida, 2001 - 2017
 
 
 # Salinity

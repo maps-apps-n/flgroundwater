@@ -12,4 +12,7 @@ An enteroccocus cluster in the Gulf area due to high salinity. <BR>
 Folder Description: <Br>
   1. Brevard - Leaflet maps in R for barium measurements in Brevard County water. <BR>
      Html/JS file for Google Charts Pie Chart displaying measurements per water type.
-  2. StLucie_EstuarySalinity - Linear regression for salinity vs years in St. Lucie County estuaries.
+  2. StLucie_EstuarySalinity - Linear regression for salinity vs years in St. Lucie County estuaries.<BR>
+
+Ft. Pierce Area measurements containing high salinity
+<img src="ft.pierce_salinity.png" width="500">
